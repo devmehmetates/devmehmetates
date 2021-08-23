@@ -19,8 +19,9 @@
 | <img src="https://image.flaticon.com/icons/png/512/732/732250.png" width=200>  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width=200>  |  <img src="https://styles.redditmedia.com/t5_12hozx/styles/communityIcon_d78li1zfyun41.png" width=200>  | <img src="https://cdn6.aptoide.com/imgs/a/0/8/a0899133b64247a024570b6207322413_icon.png" width=200> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width=200>
 # My Accounts
 <a href="https://www.linkedin.com/in/mehmet-ate%C5%9F/">
-         <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=300> 
-      </a>
+         <img src="https://res.cloudinary.com/dte7upwcr/image/upload/f_auto,w_1500/blog/blog2/how-linkedin-content-diffusion/how-linkedin-content-diffusion-img_header.jpg" width=1000> 
+      </a> 
+
 <!--
 **Mehmetates07/Mehmetates07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
