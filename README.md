@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetates07&hide=java,kotlin,dart)](https://github.com/anuraghazra/github-readme-stats)| [![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmetates07&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 <!--
 **Mehmetates07/Mehmetates07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
