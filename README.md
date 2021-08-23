@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetates07&hide=css,Jupyter-Notebook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)| [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmetates07&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetates07&hide=css,jupyter%20notebook&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)| [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmetates07&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <!--
