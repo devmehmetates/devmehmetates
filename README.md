@@ -6,10 +6,6 @@
 # My Top Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetates07&hide=css,jupyter%20notebook&card_width=1000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-# My Github Stats
-[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmetates07&count_private=true&custom_title=Mehmet%20Ateş&show_icons=true&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
-
 # My Knowing Programming Languages and SDK's
 
 | Dart (%70) | Flutter (%70) | C++ (%30) | Python (%60) | C# (%30) |
@@ -30,6 +26,8 @@
 
 Here are some ideas to get you started:
 
+# My Github Stats
+[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmetates07&count_private=true&custom_title=Mehmet%20Ateş&show_icons=true&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
