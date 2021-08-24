@@ -4,7 +4,7 @@
 <img src="https://www.coucle.com/uploads/educations/1594641849.png">
 
 # My Top Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmehmetates&hide=css,jupyter%20notebook&card_width=1000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmehmetates&hide=css,jupyter%20notebook&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Knowing Programming Languages and SDK's
 
