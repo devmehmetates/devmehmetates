@@ -16,10 +16,10 @@
 # My Accounts
 
 <a href="https://www.linkedin.com/in/devmehmetates/">
-                  <img src="https://res.cloudinary.com/dte7upwcr/image/upload/f_auto,w_1500/blog/blog2/how-linkedin-content-diffusion/how-linkedin-content-diffusion-img_header.jpg" width=480> 
+                  <img src="https://res.cloudinary.com/dte7upwcr/image/upload/f_auto,w_1500/blog/blog2/how-linkedin-content-diffusion/how-linkedin-content-diffusion-img_header.jpg" width=300> 
                </a> 
 <a href="https://twitter.com/devmehmetates">
-                  <img src="https://capslocknext.com/wp-content/uploads/2020/06/twitter.jpg" width=480> 
+                  <img src="https://capslocknext.com/wp-content/uploads/2020/06/twitter.jpg" width=300> 
                </a> 
 
 <!--
