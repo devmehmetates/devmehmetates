@@ -1,18 +1,16 @@
 ### Hi there 👋
 
+# My Knowing Programming Languages and SDK's and App's
 
+| Dart | Flutter | Python | XD |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://img.icons8.com/color/480/dart.png" width=50>  | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width=50> |  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50> | <img src="https://cdn6.aptoide.com/imgs/a/0/8/a0899133b64247a024570b6207322413_icon.png" width=50> | 
 
-# My Knowing Programming Languages and SDK's
+# I Will Learn This Tools
 
-| Dart | Flutter | Python |
-| ------------- | ------------- | ------------- |
-| <img src="https://img.icons8.com/color/480/dart.png" width=100>  | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width=100> |  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=100> 
-
-# My Currently Learning Programming Languages, SDK's and App's
-
-| Swift | Kotlin | Swift UI | Adobe XD | Adobe PS |
+| Swift | Kotlin | Swift UI | PS | R.N |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://image.flaticon.com/icons/png/512/732/732250.png" width=100>  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width=100>  |  <img src="https://styles.redditmedia.com/t5_12hozx/styles/communityIcon_d78li1zfyun41.png" width=100>  | <img src="https://cdn6.aptoide.com/imgs/a/0/8/a0899133b64247a024570b6207322413_icon.png" width=100> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width=100>
+| <img src="https://image.flaticon.com/icons/png/512/732/732250.png" width=50>  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width=50>  |  <img src="https://styles.redditmedia.com/t5_12hozx/styles/communityIcon_d78li1zfyun41.png" width=50>  |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width=50> | <img src="https://img.icons8.com/nolan/452/react-native.png" width=50> |
 # My Accounts
 
 <a href="https://www.linkedin.com/in/devmehmetates/">
