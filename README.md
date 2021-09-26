@@ -1,24 +1,9 @@
-### Hi there 👋
+<h1 align=center> Hello 👋 </h1>
 
-# My Knowing Programming Languages and SDK's and App's
+| <h2>My Languages</h2> | <h2>My SDK's</h2> | <h2>My IDE's</h2> | <h2>My  Accounts</h2> | 
+| --- | --- | --- | --- | 
+| <a href="https://dart.dev/"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> <a href="https://developer.apple.com/swift/"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> <a href="https://www.python.org/"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>  | <a href="https://flutter.dev/"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> <a href="https://developer.apple.com/xcode/swiftui/"> <img src="https://img.icons8.com/color/48/000000/swiftui.png"/> </a> <a href="https://www.adobe.com/tr/products/xd.html"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>  | <a href="https://developer.apple.com/xcode/"> <img src="https://img.icons8.com/color/50/000000/xcode.png"/> </a> <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> <a href="https://visualstudio.microsoft.com/tr/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> </a>  | <a href="https://twitter.com/devmehmetates"> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> </a> <a href="https://www.linkedin.com/in/devmehmetates/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a> |
 
-| Dart | Flutter | Python | XD |
-| ------------- | ------------- | ------------- | ------------- |
-| <img src="https://img.icons8.com/color/480/dart.png" width=50>  | <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width=50> |  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50> | <img src="https://cdn6.aptoide.com/imgs/a/0/8/a0899133b64247a024570b6207322413_icon.png" width=50> | 
-
-# I Will Learn This Tools
-
-| Swift | Kotlin | Swift UI | PS | R.N |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://image.flaticon.com/icons/png/512/732/732250.png" width=50>  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width=50>  |  <img src="https://styles.redditmedia.com/t5_12hozx/styles/communityIcon_d78li1zfyun41.png" width=50>  |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width=50> | <img src="https://img.icons8.com/nolan/452/react-native.png" width=50> |
-# My Accounts
-
-<a href="https://www.linkedin.com/in/devmehmetates/">
-                  <img src="https://res.cloudinary.com/dte7upwcr/image/upload/f_auto,w_1500/blog/blog2/how-linkedin-content-diffusion/how-linkedin-content-diffusion-img_header.jpg" width=300> 
-               </a> 
-<a href="https://twitter.com/devmehmetates">
-                  <img src="https://capslocknext.com/wp-content/uploads/2020/06/twitter.jpg" width=300> 
-               </a> 
 
 <!--
 **Mehmetates07/Mehmetates07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://icons8.com">All icons by Icons8</a>
