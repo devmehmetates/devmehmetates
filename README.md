@@ -3,7 +3,7 @@
 + 💻 I am currently looking for a job as an iOS developer.
 + 🔨 I am currently learning In-depth Swift and UIKit. <a href="https://github.com/devmehmetates/365-day-of-code">You might want to look at this.</a>
 + 📫 You can reach me <a href="mailto:Mehmet1095@icloud.com">Mehmet1095@icloud.com</a>
-+ My technologies : SwiftUI - UIKit - CocoaPods - MVVM - RESTFul - HealthKit - 3th party Packages
++ 📖 My technologies : SwiftUI - UIKit - CocoaPods - MVVM - RESTFul - HealthKit - 3th party Packages
 + 👨🏼‍💻 <a href="https://www.linkedin.com/in/devmehmetates/">Linkedin</a> - <a href="https://twitter.com/devmehmetates">Twitter</a>
 
 ## My Tools And Experience
