@@ -1,11 +1,25 @@
-<h1 align=center> Hello 👋 </h1>
+<h1 align=center> Hi. This is Mehmet  </h1>
 
-| <h2>My Languages</h2> | <h2>My SDK's</h2> | <h2>My IDE's</h2> | <h2>My  Accounts</h2> | <h2>My Services</h2> | 
-| --- | --- | --- | --- | --- | 
-|<a href="https://dart.dev/"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a>                                                                                  <a href="https://developer.apple.com/swift/"> <img src="https://img.icons8.com/color/48/000000/swift.png"/></a>                                                                <a href="https://www.python.org/"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>                                                                       |<a href="https://flutter.dev/"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>                                                                              <a href="https://developer.apple.com/xcode/swiftui/"> <img src="https://img.icons8.com/color/48/000000/swiftui.png"/></a>                                                        <a href="https://www.adobe.com/tr/products/xd.html"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/></a>                                                    |<a href="https://developer.apple.com/xcode/"> <img src="https://img.icons8.com/color/50/000000/xcode.png"/></a>                                                                  <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>                                                    <a href="https://visualstudio.microsoft.com/tr/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/></a>                                                |<a href="https://twitter.com/devmehmetates"> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>                                                              <a href="https://www.linkedin.com/in/devmehmetates/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>                                                      |<a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/></a>                                                      <a href="https://www.tensorflow.org/"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>                                                                    |
++ 💻 I am currently looking for a job as an iOS developer.
++ 🔨 I am currently learning In-depth Swift and UIKit. <a href="https://github.com/devmehmetates/365-day-of-code">You might want to look at this.</a>
++ 📫 You can reach me <a href="mailto:Mehmet1095@icloud.com">Mehmet1095@icloud.com</a>
++ My technologies : SwiftUI - UIKit - CocoaPods - MVVM - RESTFul - HealthKit - 3th party Packages
++ 👨🏼‍💻 <a href="https://www.linkedin.com/in/devmehmetates/">Linkedin</a> - <a href="https://twitter.com/devmehmetates">Twitter</a>
 
-  
-
+## My Tools And Experience
+<div>
+  <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
+  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
+  <a href="https://dart.dev/"><img src="https://img.icons8.com/color/480/000000/dart.png" width=50></a>
+  <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/480/000000/flutter.png" width=50></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>
+  <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/480/000000/android-studio.png" width=50></a>
+  <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+  <a href="https://www.adobe.com/tr/products/xd.html"><img src="https://img.icons8.com/color/480/000000/adobe-xd--v1.png" width=50></a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
+  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
+</div>
 
 <!--
 **Mehmetates07/Mehmetates07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
