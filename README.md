@@ -2,6 +2,8 @@
 
 ![Slide 16_9 - 1](https://user-images.githubusercontent.com/74152011/170300658-fad01474-354a-407d-b2ae-6d2360911559.png)
 
+<h5 align=end> These are just my featured apps. Keep reviewing for more. For about 50 more 🚀 </h5>
+
 ## Information
 + 💻 I am currently looking for a job as an iOS developer.
 + 🔨 I am currently learning In-depth Swift and UIKit. <a href="https://github.com/devmehmetates/365-day-of-code">You might want to look at this.</a>
