@@ -1,5 +1,7 @@
 <h1 align=center> Hi. This is Mehmet  </h1>
 
+![Slide 16_9 - 1](https://user-images.githubusercontent.com/74152011/170300658-fad01474-354a-407d-b2ae-6d2360911559.png)
+
 + 💻 I am currently looking for a job as an iOS developer.
 + 🔨 I am currently learning In-depth Swift and UIKit. <a href="https://github.com/devmehmetates/365-day-of-code">You might want to look at this.</a>
 + 📫 You can reach me <a href="mailto:Mehmet1095@icloud.com">Mehmet1095@icloud.com</a>
