@@ -2,13 +2,12 @@
 
 ![My Apps](https://user-images.githubusercontent.com/74152011/178023507-9f7e35a1-5955-4da8-b93d-8afe5f2328f6.png)
 
-<h5 align=end> These are just my featured apps. Keep reviewing for more. For about 50 more 🚀 </h5>
+<h3 align=end> I keep my projects private for security reasons. Please contact me if you are interested in me. </h3>
 
 ## Information
 + 💻 I am currently looking for a job as an iOS developer.
-+ 🔨 I am currently learning In-depth Swift and UIKit. <a href="https://github.com/devmehmetates/365-day-of-code">You might want to look at this.</a>
-+ 📫 You can reach me <a href="mailto:Mehmet1095@icloud.com">Mehmet1095@icloud.com</a>
-+ 📖 My technologies : <a href="https://github.com/devmehmetates/365-day-of-code#my-side-projects-for-ios">Please look at it here</a>
++ 🔨 I am currently improving my clean code skills for Swift.
++ 📫 You can reach me <a href="mailto:Mehmet1095@icloud.com">iCloud</a> or <a href="mailto:dev.mehmetates@gmail.com">Gmail</a>
 + 👨🏼‍💻 <a href="https://www.linkedin.com/in/devmehmetates/">Linkedin</a> - <a href="https://twitter.com/devmehmetates">Twitter</a>
 
 ## My Tools And Experience
