@@ -1,6 +1,6 @@
 <h1 align=center> Hi. This is Mehmet  </h1>
 
-![Slide 16_9 - 2](https://user-images.githubusercontent.com/74152011/175954301-614bbfb5-f033-4bd8-9bd7-ada8a136c104.png)
+![My Apps](https://user-images.githubusercontent.com/74152011/178023507-9f7e35a1-5955-4da8-b93d-8afe5f2328f6.png)
 
 <h5 align=end> These are just my featured apps. Keep reviewing for more. For about 50 more 🚀 </h5>
 
