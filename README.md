@@ -1,51 +1,101 @@
-<h1 align=center> Hi. This is Mehmet  </h1>
+<h1 align=center> Hi. This is Mehmet </h1>
 
 ![My Apps](https://user-images.githubusercontent.com/74152011/178023507-9f7e35a1-5955-4da8-b93d-8afe5f2328f6.png)
 
-<h3 align=end> I keep my projects private for security reasons. Please contact me if you are interested in me. </h3>
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>Learning:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Improving:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Target:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Working on:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+        RealtyKit - SceneKit
+        </td>
+        <td colspan="2">
+        Swift - SwiftUI- UIKit
+        </td>
+        <td colspan="2">
+        Publish TipsForRiot
+        </td>
+        <td colspan="2">
+        <a href="https://github.com/devmehmetates/TipsForRiotDetails"><strong>TipsForRiot</strong></a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+        Figma
+        </td>
+        <td colspan="2">
+        UI - UX
+        </td>
+        <td colspan="2">
+        Redesign HealtCare
+        </td>
+        <td colspan="2">
+        -
+        </td>
+    </tr>
+</table>
 
-## Information
-+ 💻 I am currently looking for a job as an iOS developer.
-+ 🔨 I am currently improving my clean code skills for Swift.
-+ 📫 You can reach me <a href="mailto:Mehmet1095@icloud.com">iCloud</a> or <a href="mailto:dev.mehmetates@gmail.com">Gmail</a>
-+ 👨🏼‍💻 <a href="https://www.linkedin.com/in/devmehmetates/">Linkedin</a> - <a href="https://twitter.com/devmehmetates">Twitter</a>
+<table>
+    <tr>
+        <td colspan="4">
+        <strong><samp>Connect:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" rowspan="2">
+        <samp>Reach me from <a href="mailto:devmehmetates@gmail.com">Gmail</a>, <a href=https://www.linkedin.com/in/devmehmetates>Linkedin</a> or <a href=https://twitter.com/devmehmetates>Twitter</a></samp>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=devmehmetates&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=devmehmetates&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=light">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=light">
+        </a>
+        </td>
+    </tr>
+</table>
 
-## My Tools And Experience
-<div>
-  <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
-  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
-  <a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
-  <a href="https://dart.dev/"><img src="https://img.icons8.com/color/480/000000/dart.png" width=50></a>
-  <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/480/000000/flutter.png" width=50></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>
-  <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/480/000000/android-studio.png" width=50></a>
-  <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
-  <a href="https://www.adobe.com/tr/products/xd.html"><img src="https://img.icons8.com/color/480/000000/adobe-xd--v1.png" width=50></a>
-  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
-  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
-</div>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
+        <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
+        <a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
+        <a href="https://dart.dev/"><img src="https://img.icons8.com/color/480/000000/dart.png" width=50></a>
+        <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/480/000000/flutter.png" width=50></a>
+        <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>
+        <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/480/000000/android-studio.png" width=50></a>
+        <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+        <a href="https://www.adobe.com/tr/products/xd.html"><img src="https://img.icons8.com/color/480/000000/adobe-xd--v1.png" width=50></a>
+        <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
+        <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
+        </td>
+    </tr>
+</table>
 
-<!--
-**Mehmetates07/Mehmetates07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# My Currently Work
-<img src="https://www.coucle.com/uploads/educations/1594641849.png">
-
-# My Top Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmehmetates&hide=css,jupyter%20notebook&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
-
-# My Github Stats
-[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmetates07&count_private=true&custom_title=Mehmet%20Ateş&show_icons=true&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<a href="https://icons8.com">All icons by Icons8</a>
