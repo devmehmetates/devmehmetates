@@ -64,13 +64,13 @@
         <samp>Reach me from <a href="mailto:devmehmetates@gmail.com">Gmail</a>, <a href=https://www.linkedin.com/in/devmehmetates>Linkedin</a> or <a href=https://twitter.com/devmehmetates>Twitter</a></samp>
         </td>
         <td colspan="2" rowspan="2">
-        <a href="https://github-readme-stats.vercel.app/api?username=devmehmetates&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=devmehmetates&count_private=true&hide_border=true&title_color=FF0051&icon_color=FF0051&show_icons=true">
+        <a href="https://github-readme-stats.vercel.app/api?username=devmehmetates&count_private=true&hide_border=true&show_icons=true&theme=dracula">
+        <img src="https://github-readme-stats.vercel.app/api?username=devmehmetates&count_private=true&hide_border=true&show_icons=true&theme=dracula">
         </a>
         </td>
         <td colspan="2" rowspan="2">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=light">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=light">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=dracula">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=dracula">
         </a>
         </td>
     </tr>
