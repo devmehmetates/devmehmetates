@@ -28,7 +28,7 @@
         Publish TipsForRiot
         </td>
         <td colspan="2">
-        <a href="https://github.com/devmehmetates/TipsForRiotDetails"><strong>TipsForRiot</strong></a>
+        <a href="https://github.com/devmehmetates/TipsForRiot"><strong>TipsForRiot</strong></a>
         </td>
     </tr>
     <tr>
