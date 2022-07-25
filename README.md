@@ -69,8 +69,8 @@
         </a>
         </td>
         <td colspan="2" rowspan="2">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=dracula">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&theme=dracula">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&hide_border=true&theme=dracula">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmehmetates&hide_border=true&theme=dracula">
         </a>
         </td>
     </tr>
