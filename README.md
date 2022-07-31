@@ -25,10 +25,10 @@
         Swift - SwiftUI- UIKit
         </td>
         <td colspan="2">
-        Publish TipsForRiot
+        Getting a job
         </td>
         <td colspan="2">
-        <a href="https://github.com/devmehmetates/TipsForRiot"><strong>TipsForRiot</strong></a>
+        <a href="https://github.com/devmehmetates/OpenFashion-MehmetAtes"><strong>OpenFashion</strong></a>
         </td>
     </tr>
     <tr>
