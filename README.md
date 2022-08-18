@@ -19,16 +19,16 @@
     </tr>
     <tr>
         <td colspan="2">
-        RXSwift
+        Viper 🐍
         </td>
         <td colspan="2">
         Swift - SwiftUI- UIKit
         </td>
         <td colspan="2">
-        Getting a job
+        Publish some apps
         </td>
         <td colspan="2">
-        <a href="https://github.com/devmehmetates/OpenFashion-MehmetAtes"><strong>OpenFashion</strong></a>
+        <a href="https://github.com/devmehmetates/Socia"><strong>Socia</strong></a>
         </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@
         <strong><samp>Stats:</samp></strong>
         </td>
         <td colspan="2">
-        <strong><samp>Streak:</samp></strong>
+        <strong><samp>Streak: Waiting master merge </samp></strong>
         </td>
     </tr>
     <tr>
