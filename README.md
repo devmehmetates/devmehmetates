@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td colspan="2">
-        Viper 🐍
+        TDD - Viper
         </td>
         <td colspan="2">
         Swift - SwiftUI- UIKit
@@ -28,7 +28,7 @@
         Publish some apps
         </td>
         <td colspan="2">
-        <a href="https://github.com/devmehmetates/Socia"><strong>Socia</strong></a>
+        <a href="https://github.com/devmehmetates/TipsForRiot-New"><strong>Tips For Riot</strong></a>
         </td>
     </tr>
     <tr>
