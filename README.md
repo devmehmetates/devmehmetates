@@ -1,52 +1,17 @@
-<h1 align=center> Hi. This is Mehmet </h1>
+<div>
+    <h1 align=center> Hi. This is Mehmet </h1>
+    <h3 align=center> Think, And be Better. </h2>
+</div>
 
-![My Apps](https://user-images.githubusercontent.com/74152011/201479194-30df9ad9-7cdc-4a4a-a24d-642354a79962.png)
+<div align=center>
+    <img width=150 src="https://user-images.githubusercontent.com/74152011/207431910-678e7493-df18-424f-9322-6796df6492bb.png">
+    <img width=150 src="https://user-images.githubusercontent.com/74152011/207431907-2fcc5447-ed87-4e68-be91-66faf481324b.png">
+    <img width=150 src="https://user-images.githubusercontent.com/74152011/207431900-2928e7cd-66c2-4863-8deb-b55103625b90.png">
+    <img width=150 src="https://user-images.githubusercontent.com/74152011/207431885-be552761-bdea-4cb9-bd6f-a473e7733dcb.png">
+    <img width=150 src="https://user-images.githubusercontent.com/74152011/207431913-a6f48dda-e209-4423-8cd0-160a3d7e047d.png">
+</div>
 
-<table>
-    <tr>
-        <td colspan="2">
-        <strong><samp>Learning:</samp></strong>
-        </td>
-        <td colspan="2">
-        <strong><samp>Improving:</samp></strong>
-        </td>
-        <td colspan="2">
-        <strong><samp>Target:</samp></strong>
-        </td>
-        <td colspan="2">
-        <strong><samp>Working on:</samp></strong>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-        TDD - Viper
-        </td>
-        <td colspan="2">
-        Swift - SwiftUI- UIKit
-        </td>
-        <td colspan="2">
-        Publish some apps
-        </td>
-        <td colspan="2">
-        <a href="https://github.com/devmehmetates/TipsForRiot-New"><strong>Tips For Riot</strong></a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-        Figma
-        </td>
-        <td colspan="2">
-        UI - UX
-        </td>
-        <td colspan="2">
-        Redesign HealtCare
-        </td>
-        <td colspan="2">
-        -
-        </td>
-    </tr>
-</table>
-
+<br><br>
 <table>
     <tr>
         <td colspan="4">
@@ -76,6 +41,7 @@
     </tr>
 </table>
 
+<div align=center>
 <table>
     <tr>
         <td colspan="8">
@@ -94,8 +60,9 @@
         <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
         <a href="https://www.adobe.com/tr/products/xd.html"><img src="https://img.icons8.com/color/480/000000/adobe-xd--v1.png" width=50></a>
         <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
-        <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>
+        <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>            
         </td>
     </tr>
 </table>
+</div>
 
