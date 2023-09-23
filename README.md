@@ -5,7 +5,7 @@
 
 <div align=center>
     <a href="https://github.com/devmehmetates/iTunes-Search-API"><img width=150 src="https://user-images.githubusercontent.com/74152011/207431910-678e7493-df18-424f-9322-6796df6492bb.png"></a>
-    <a href="https://github.com/devmehmetates/TipsForRiot-New"><img width=150 src="https://user-images.githubusercontent.com/74152011/207431907-2fcc5447-ed87-4e68-be91-66faf481324b.png"></a>
+    <a href="https://apps.apple.com/us/app/tips-for-riot/id6449912449"><img width=150 src="https://user-images.githubusercontent.com/74152011/207431907-2fcc5447-ed87-4e68-be91-66faf481324b.png"></a>
     <a href="https://github.com/devmehmetates/Health-Care-Public"><img width=150 src="https://user-images.githubusercontent.com/74152011/207431900-2928e7cd-66c2-4863-8deb-b55103625b90.png"></a>
     <a href="https://github.com/devmehmetates/Socia"><img width=150 src="https://user-images.githubusercontent.com/74152011/207431885-be552761-bdea-4cb9-bd6f-a473e7733dcb.png"></a>
     <a href="https://github.com/devmehmetates/MedExp-MVVM"><img width=150 src="https://user-images.githubusercontent.com/74152011/207431913-a6f48dda-e209-4423-8cd0-160a3d7e047d.png"></a>
