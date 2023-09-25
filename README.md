@@ -4,8 +4,7 @@
 </div>
 
 <div align=center>
- <a href="https://apps.apple.com/us/app/debt-docket-borç-takip/id6453604343"><img width=256 src="https://github.com/devmehmetates/devmehmetates/assets/74152011/c9b7e746-2424-4ff9-b489-3733d1db374c"></a>
-    <p>Debt Docket - Download On App Store</p>
+    <a href="https://apps.apple.com/tr/app/debt-docket-bor%C3%A7-takip/id6453604343">Debt Docket - Download On App Store</a>
 </div>
 
 <div align=center>
